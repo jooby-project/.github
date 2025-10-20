@@ -47,14 +47,12 @@ Documentation is available at [https://jooby.io](https://jooby.io)
 
 help
 =====
-
-[Discord](https://discord.gg/nmfJmmrq)
+[Discord](https://discord.gg/JmyxrKPvjY)
 
 donate & support
 =====
 - [Sponsor](https://github.com/sponsors/jknack)
 - [Paypal](https://www.paypal.com/paypalme2/edgarespina)
-- [Patreon](https://www.patreon.com/edgarespina)
 - [support@jooby.io](mailto:support@jooby.io?Subject=Jooby%20Support)
 
 | Logo | Sponsor |
@@ -65,7 +63,7 @@ donate & support
 
 Previous version
 =====
-
+- v3: [Documentation](https://jooby.io/v3) and [source code](https://github.com/jooby-project/jooby/tree/3.x)
 - v2: [Documentation](https://jooby.io/v2) and [source code](https://github.com/jooby-project/jooby/tree/2.x)
 - v1: [Documentation](https://jooby.io/v1) and [source code](https://github.com/jooby-project/jooby/tree/1.x)
 
